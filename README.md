@@ -1,5 +1,7 @@
 # CryptoPunks Owner Highlighter
 
+![Owned punks highlighted with a cerulean background on the for-sale page](screenshot.png)
+
 A Chrome extension that recolors the background of for-sale CryptoPunks owned by a
 watched wallet (cerulean) on https://www.cryptopunks.app/cryptopunks/forsale, so
 the wallet's listings stand out in the grid.
