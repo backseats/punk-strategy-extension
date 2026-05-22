@@ -1,0 +1,5 @@
+/* Recolor a for-sale punk owned by the watched wallet to a cerulean background.
+   The site sets it inline per punk, so !important is required to override. */
+a.cpoh-owned img {
+  background: #007ba7 !important;
+}
